@@ -24,4 +24,4 @@ python3 snake.py
 
 
 # Credits
-[Tristan](https://github.com/tristanHdez18) for the name suggestion..
+[Tristan](https://github.com/tristanHdez18).
